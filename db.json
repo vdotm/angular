@@ -1,0 +1,23 @@
+employee2 : [
+{
+id:1,
+employee_name: "John Doe 1",
+employee_salary:1000,
+employee_age:25,
+profile_image:"assets/pic1.png"
+},
+{
+id:2,
+employee_name: "John Doe 2",
+employee_salary:2000,
+employee_age:26,
+profile_image:"assets/pic2.png"
+},
+{
+id:3,
+employee_name: "John Doe 3",
+employee_salary:3000,
+employee_age:27,
+profile_image:"assets/pic3.png"
+}
+]
